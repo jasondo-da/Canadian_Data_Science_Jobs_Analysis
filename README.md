@@ -1,7 +1,5 @@
 # Canadian Data Science Jobs Analysis
 
-# In Process
-
 ![image](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 ## Table of Contents
@@ -62,4 +60,18 @@ Within this exploratory data analysis, we are attempting to uncover new insights
 
 ## Conclusion
 
+### Key Findings
 
+•	Average salary for a data science career in Canada can range from  65k to 85k
+
+•	Data analysts, business analysts, and general analysts 10x more in demand than data engineers and data scientists 
+
+•	Businesses are looking to optimize business processes and consolidate their current market position rather than grow their market or market share
+
+•	This is supported by the idea that many specified jobs are hiring specifically for experienced senior candidates over middle and entry-level candidates
+
+•	Across all web platforms there is a 10x demand for senior roles than middle and entry-level roles
+
+•	The most common skills employers expect from candidates are SQL, Python, Excel, and a business intelligence platform of which the most common are Power BI and Tableau
+
+•	Geographically, the best locations for on-site jobs are the Toronto and Vancouver regions since they have multiple neighboring cities that are also looking to hire creating the two largest hubs for data science candidates
