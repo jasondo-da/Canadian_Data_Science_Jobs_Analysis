@@ -23,7 +23,7 @@ Link: [Canadian Data Science Jobs Analysis](https://github.com/jasondo-da/Canadi
 
 ### Canadian Data Science Jobs Analysis Dataset
 
-his dataset provides a unique glimpse into the Canadian job market for data science positions, showcasing key details like salary ranges, required skills, programming languages, job titles, employers, etc.
+This dataset provides a unique glimpse into the Canadian job market for data science positions, showcasing key details like salary ranges, required skills, programming languages, job titles, employers, etc.
 
 Link: [Original Kaggle Dataset](https://www.kaggle.com/datasets/amanbhattarai695/data-analyst-job-roles-in-canada)
 
