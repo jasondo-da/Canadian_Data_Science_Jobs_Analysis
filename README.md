@@ -75,3 +75,5 @@ Within this exploratory data analysis, we are attempting to uncover new insights
 •	The most common skills employers expect from candidates are SQL, Python, Excel, and a business intelligence platform of which the most common are Power BI and Tableau
 
 •	Geographically, the best locations for on-site jobs are the Toronto and Vancouver regions since they have multiple neighboring cities that are also looking to hire creating the two largest hubs for data science candidates
+
+![image](https://github.com/user-attachments/assets/3ab449ce-a29b-4698-981a-03da5846ff9e)
