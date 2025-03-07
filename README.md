@@ -7,7 +7,6 @@
 - [Project Introduction](#project-introduction)
     - [Canadian Data Science Jobs Analysis Jupyter Notebook](#canadian-data-science-jobs-analysis-jupyter-notebook)
     - [Canadian Data Science Jobs Analysis Dataset](#canadian-data-science-jobs-analysis-dataset)
-- [Objective](#objective)
 - [Analysis Outline](#analysis-outline)
 - [Conclusion](#conclusion)
 
@@ -38,9 +37,6 @@ Link: [Original Kaggle Dataset](https://www.kaggle.com/datasets/amanbhattarai695
 | Province | Province of work location |
 | Job Link | Link to original job board post |
 
-## Objective
-
-My objective for this project is to uncover what the data science job market seeking from new potential hires. Questions I am looking to answer are experience level employers are seeking, which technical skills are in demand, and which regions are hiring the most individuals.
 
 ## Analysis Outline
 Within this exploratory data analysis, we are attempting to uncover new insights and unusual anomalies within the dataset. The key questions we are looking for are:
