@@ -14,13 +14,13 @@
 
 2024 has been a difficult year for entry-level data science jobs and for this project, I am interested in analyzing the data science field job market. For this project, I am utilizing a Kaggle-based dataset that web-scraped Canadian job postings for data using Selenium and BeautifulSoup. This dataset provides multiple interesting insights into the data science job market such as in-demand technical skills, expected work experience, and salary ranges. 
 
-### Canadian Data Science Jobs Analysis Jupyter Notebook
+## Canadian Data Science Jobs Analysis Jupyter Notebook
 
 All codes of Canadian Data Science Jobs Analysis in Jupyter Notebook
 
 Link: [Canadian Data Science Jobs Analysis](https://github.com/jasondo-da/Canadian_Data_Analyst_Online_Job_Posting_Analysis/blob/main/da_job_posts_canada_analysis.ipynb)
 
-### Canadian Data Science Jobs Analysis Dataset
+## Canadian Data Science Jobs Analysis Dataset
 
 This dataset provides a unique glimpse into the Canadian job market for data science positions, showcasing key details like salary ranges, required skills, programming languages, job titles, employers, etc.
 
